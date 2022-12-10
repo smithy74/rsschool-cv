@@ -30,7 +30,17 @@ Now I am striving to create my own cross-platform web service.
 
 ## Work experience
 
-## Education and courses
+## Education
+
+* **College:** 
+* [Chelyabinsk Power Engineering College named after S. M. Kirov](https://www.chenk.ru/ru/)
+    * Civil: Information networks and programming
+        * C#, HTML, CSS, SQL, Algorithms, Elements of higher mathematics, probability theory.
+* **Courses:**
+    * [21SCHOOL](https://discordapp.com/users/kristyusha#3024)
+        * C, C++, DevOps, Linux(Ubuntu), MacOS
+    * [WEBFORMYSELF](https://webformyself.com/nashi-kursy/)
+        * Python
 
 ## Language
 
