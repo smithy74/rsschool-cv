@@ -1,6 +1,6 @@
 # Kuznetsova Kristina
 
-## My Contact Info
+## Contacts
 
 * **E-mail:** [kuznetsovakd04@yandex.ru](kuznetsovakd04@yandex.ru)
 * **GitHub:** [smithy74](https://github.com/smithy74)
