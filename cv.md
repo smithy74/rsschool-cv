@@ -11,10 +11,20 @@
 
 I'm 18 years old.
 And in these 18, I work part-time as a 1C-programmer, study in college in the IT direction, go through 21school from SBER, which previously collaborated with Ecole 42.
-For me, the most important thing is mental development and the application of knowledge in practice. 
+For me, the most important thing is mental development and the application of knowledge in practice.
 Now I am striving to create my own cross-platform web service.
 
 ## Skills
+
+* HTML
+* CSS (Framework Bootstrap, BEM methodology).
+* Version control: Git (remote service GitHub, GitLab).
+* C# (Fundamentals, Functional Programming, OOP), XAML
+* C, Python, SQL, JavaScript, JSON, XML,  - basic knowledge.
+* Bash scripts
+* Windows OS, Linux(Ubuntu), MacOS
+* Figma, Photoshop(for web development)
+* Editors: Sublime, Brackets, **VSCode**, Visial Studio, GetBrains IDE.
 
 ## Code example
 
