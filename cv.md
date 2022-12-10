@@ -18,4 +18,4 @@
 ## Education and courses
 
 ## Language
-
+English - A2 (B1 in proccess...)
