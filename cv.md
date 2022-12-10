@@ -31,17 +31,22 @@ Now I am striving to create my own cross-platform web service.
 ```
 print("Python")
 ```
+
 ```
 printf("C");
 ```
+
 ```
 Console.WriteLine("C#");
 ```
+
 ```
 console.log("C#");
 ```
 
 ## Work experience
+
+All my past and current projects are on my githubAll my past and current projects are on [my github](https://github.com/smithy74)
 
 ## Education
 
@@ -55,7 +60,7 @@ console.log("C#");
   * [WEBFORMYSELF](https://webformyself.com/nashi-kursy/)
     * Python
   * [RS Schools Course «JavaScript/Front-end. Stage 0»](https://rs.school/)
-    * JavaScript, HTML, CSS, Git, MarkDown 
+    * JavaScript, HTML, CSS, Git, MarkDown
 
 ## Language
 
