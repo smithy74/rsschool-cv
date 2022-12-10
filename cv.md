@@ -55,6 +55,7 @@ console.log("C#");
   * [WEBFORMYSELF](https://webformyself.com/nashi-kursy/)
     * Python
   * [RS Schools Course «JavaScript/Front-end. Stage 0»](https://rs.school/)
+    * JavaScript, HTML, CSS, Git, MarkDown 
 
 ## Language
 
