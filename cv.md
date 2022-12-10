@@ -28,20 +28,34 @@ Now I am striving to create my own cross-platform web service.
 
 ## Code example
 
+```
+print("Python")
+```
+```
+printf("C");
+```
+```
+Console.WriteLine("C#");
+```
+```
+console.log("C#");
+```
+
 ## Work experience
 
 ## Education
 
-* **College:** 
-    * [Chelyabinsk Power Engineering College named after S. M. Kirov](https://www.chenk.ru/ru/)
-        * Civil: Information networks and programming
-        * C#, HTML, CSS, SQL, Algorithms, Elements of higher mathematics, probability theory.
+* **College:**
+  * [Chelyabinsk Power Engineering College named after S. M. Kirov](https://www.chenk.ru/ru/)
+    * Civil: Information networks and programming
+    * C#, HTML, CSS, SQL, Algorithms, Elements of higher mathematics, probability theory.
 * **Courses:**
-    * [21SCHOOL](https://discordapp.com/users/kristyusha#3024)
-        * C, C++, DevOps, Linux(Ubuntu), MacOS
-    * [WEBFORMYSELF](https://webformyself.com/nashi-kursy/)
-        * Python
-    * [RS Schools Course «JavaScript/Front-end. Stage 0»](https://rs.school/)
+  * [21SCHOOL](https://discordapp.com/users/kristyusha#3024)
+    * C, C++, DevOps, Linux(Ubuntu), MacOS
+  * [WEBFORMYSELF](https://webformyself.com/nashi-kursy/)
+    * Python
+  * [RS Schools Course «JavaScript/Front-end. Stage 0»](https://rs.school/)
+
 ## Language
 
 English - A2 (B1 in proccess...)
